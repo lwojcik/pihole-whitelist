@@ -159,3 +159,5 @@ gfe.nvidia.com
 (\.|^)cda\.pl$
 (\.|^)namecheap\.com$
 (\.|^)booksy\.com$
+bitly.com
+bit.ly
