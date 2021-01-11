@@ -160,4 +160,4 @@ gfe.nvidia.com
 (\.|^)namecheap\.com$
 (\.|^)booksy\.com$
 (\.|^)urbandictionary\.com$
-kariera.wp.pl
+(\.|^)survicate\.com$
