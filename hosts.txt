@@ -176,3 +176,4 @@ gfe.nvidia.com
 (\.|^)hubapi\.com$
 (\.|^)api\.hubapi\.com$
 (\.|^)fast\.wistia\.com$
+(\.|^)fast\.wistia\.net$
